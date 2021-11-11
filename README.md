@@ -1,2 +1,2 @@
-# scripts
-scripts for setting up build environments
+# automox scripts
+scripts for prepping build environments
